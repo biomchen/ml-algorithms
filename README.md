@@ -1,1 +1,10 @@
-### This is my personal summary of the ML models. It is based on several reference books and two Data Science Programs. Currently, the summary is still in the working process. If you noitce some errors in the summary, please let me know. 
+### Summary of the machine learning models
+---------------------------
+
+Personal repository based on related references and two Data Science Programs.
+
+Currently, the summary is still in the working process.
+
+If you spot any error or have any questions, you can contact me at meng.chen03(at)gamil.com,
+
+---------------------------
