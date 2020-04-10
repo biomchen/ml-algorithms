@@ -1,5 +1,4 @@
-### Repo of ML algorithms
-This a collection of notebooks of different ML algorithms.
+### A Collection of ML algorithm notebooks
 
 Primary references:                                                    
 Géron, A. 2017. Hands-Machine Learning with Scikit-Learn & TensorFlow. O'Reily Inc.                                   
