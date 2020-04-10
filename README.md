@@ -1,6 +1,6 @@
 ## A Collection of ML Algorithm Notebooks
 ### Table of Contents
-1. [Linear Models](./1 LinearModel.ipynb)
+1. [Linear Models](./1_LinearModel.ipynb)
 2. Clustering
 3. Decision Trees
 4. Random Forests
