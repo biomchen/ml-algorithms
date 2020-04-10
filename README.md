@@ -1,5 +1,5 @@
-### Summary of the machine learning algorithms
+### A collection of ML algorithm notebooks
 
-Personal repo of ML (in working process).
-
-Free to use and welcome any critism for errors.
+Primary references:                                                    
+Géron, A. 2017. Hands-Machine Learning with Scikit-Learn & TensorFlow. O'Reily Inc.                                   
+Grus, J. 2019. Data Science from Scratch. O'Reily Inc.
