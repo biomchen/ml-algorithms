@@ -1,7 +1,5 @@
 ## A Collection of ML Algorithm Notebooks
-
 ### Table of Contents
----
 1. Linear Models
 2. Clustering
 3. Decision Trees
@@ -12,7 +10,7 @@
 8. Manifold
 9. Neural Network
 
-References:                                                    
+### References                                                  
 1. Goodfellow, I., Bengio, Y., Courville, A. 2016. Deep Learning. MIT Press.
 2. Geron, A. 2017. Hands-On Machine Learning with Scikit-Learn & TensorFlow. O'Reily.
 3. Albon, C. 2018. Python Machine Learning Cookbook. O'Reily.
