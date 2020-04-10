@@ -1,4 +1,4 @@
-### A collection of ML algorithm notebooks
+### A Collection of ML Algorithm Notebooks
 
 Primary references:                                                    
 1. Goodfellow, I., Bengio, Y., Courville, A. 2016. Deep Learning. MIT Press.
