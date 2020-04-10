@@ -1,4 +1,6 @@
 ### Repo of ML algorithms
 This a collection of notebooks of different ML algorithms.
 
-The useful references are primarily based on two books: Data Science from Scratch and Hands-Machine Learning with Scikit-Learn & TensorFlow.
+Primary references:
+Géron, A. 2017. Hands-Machine Learning with Scikit-Learn & TensorFlow. O'Reily Inc.
+Grus, J. 2019. Data Science from Scratch. O'Reily Inc.
